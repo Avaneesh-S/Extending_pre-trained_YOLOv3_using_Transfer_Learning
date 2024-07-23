@@ -1,1 +1,2 @@
-Read the colab notebook to understand the complete working of the transfer learning approach implemented to extend pre-trained YOLOv3 object detection model trained on COCO dataset
+The colab notebooks contain the implementation of using transfer learning to extend pre-trained YOLOv3 object detection model to detect unknown objects without 
+re-training on the entire dataset. The initial YOLOv3 model was trained on COCO dataset.
